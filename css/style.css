@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&family=Merriweather:wght@400;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+
+}
+ /* common section */
+
+
+
+
+
+
+
+
+
+
+/* header section */
+.new-year{
+    width: 90%;
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 50px auto;
+   border-radius: 15px 15px 15px 15px;
+}
+.new-year-overlay{
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00));
+}
+.new-year-text{
+    width: 632px;
+    margin: auto ;
+    padding:233px 0 177px ;
+}
+.new-year-text h5{
+    font-size: 32px;
+    color: #fff;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.new-year-text h1{
+    font-size: 72px;
+    color: #fff;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+
+
+/* New Off */
+.new-off{
+    width: 740px;
+    margin: 70px auto;
+}
+.new-off-title{
+    width: 400px;
+    margin: auto;
+}
+.new-off-title h1{
+    color: #F00;
+    font-size: 80px;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 25px;
+}
+.new-off-title p{
+    color: #F00;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    text-transform: uppercase;
+}
+.new-off-title h2{
+    color: #070211;
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    text-transform: uppercase;
+    margin: 5px 0 48px;
+}
+.new-off-img{}
+.new-off-img img{
+    width: 100%;
+}
+
+
+
+
